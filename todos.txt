@@ -1,0 +1,9 @@
+2017 03 08 "Program SW2 assignment 1"
+2017 03 09 "Attend SW2 class"
+2017 03 02 "Attend SW2 class"
+2017 03 10 "Study inheritance in Java"
+2017 03 03 "Study packages in Java"
+2017 03 09 "Attend SW2 lecture"
+2017 03 14 "Program SW2 assignment 2"
+2017 03 09 "Submit SW2 assignment 1"
+	
